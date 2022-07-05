@@ -4,3 +4,5 @@ describe("Test Suite Dummy Description", () => {
         expect(resultOfSomething).toBe(18);
     })
 })
+
+//Test Driven Development by Martin Fowler
