@@ -7,8 +7,8 @@ class Spiderman {
         this.studio = studio
     }
     getInfo() {
-        return ('Hey, I´ m ' + this.actor +
-            'from ' + this.studio + ' Studio ')
+        return ('Hey, I´m ' + this.actor +
+            'from ' + this.studio + ' Studio')
     }
 
 }
